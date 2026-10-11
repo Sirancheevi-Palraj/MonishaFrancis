@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zetchain//Wedding Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:monisha-francis-wedding-20261021@zetchain
+DTSTAMP:20261011T130000Z
+DTSTART;TZID=Asia/Kolkata:20261021T163000
+DTEND;TZID=Asia/Kolkata:20261021T200000
+SUMMARY:Wedding of Monisha & Francis Amalraj
+LOCATION:GiriAm Party Hall (A/C)
+DESCRIPTION:Wedding at 4:30 PM and reception at 7:00 PM. Directions: https://maps.app.goo.gl/U7y6oPdKiY9cd4r46?g_st=ac
+URL:https://maps.app.goo.gl/U7y6oPdKiY9cd4r46?g_st=ac
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Tomorrow: Wedding of Monisha & Francis Amalraj
+END:VALARM
+END:VEVENT
+END:VCALENDAR
